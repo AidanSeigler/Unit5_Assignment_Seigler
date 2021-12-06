@@ -1,4 +1,8 @@
-//A  Restaurant Project Struct style Dr_T Dr. Tyson McMillan 10-2-2019
+
+// Created Dec. 02, 2021
+// Assigned by Dr. Tyson McMillian, TCCD
+// The purpose of this assignment was to learn how to apply OOP to real world problems
+// This assignment increased my knowledge of OOP
 
 #include <iostream>
 #include<string>
